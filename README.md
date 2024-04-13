@@ -20,5 +20,9 @@ Everyone! Please keep this list updated!
 
 うまく実装できるか分からんけど🥺
 
+## Reference / Thanks list
+- ja : https://github.com/MosasoM/inappropriate-words-ja
+- id : https://github.com/dikako/list_badword
+
 ## Description
 Under Construction
