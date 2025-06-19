@@ -55,4 +55,3 @@ poker
 blackjack
 slots
 lottery
-sm
