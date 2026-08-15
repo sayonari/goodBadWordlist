@@ -22,7 +22,7 @@ schlafzimmer
 schlag
 schlange
 schlecht
-schließen
+schlieÃŸen
 schlitten
 schloss
 schmecken
@@ -33,7 +33,7 @@ schnell
 schnitt
 schock
 schon
-schön
+schÃ¶n
 schrank
 schreiben
 schrei

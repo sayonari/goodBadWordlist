@@ -4,3 +4,6 @@ tolong
 giliran
 bodohkan
 anjing laut
+daging babi
+babi hutan
+babi panggang
